@@ -25,6 +25,6 @@ of code
 
 Here is how you make [a link](https://www.google.com).
 
-![This is an image.](https://www.bigbadtoystore.com/Product/VariationDetails/50237)
+![This is an image.](https://bbts1.azureedge.net/images/p/full/2017/02/2b1bd188-8c10-47b8-bb79-e642930c4703.jpg)
 
 nano README.md
