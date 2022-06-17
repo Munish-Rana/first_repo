@@ -1,30 +1,25 @@
-# This is a large heading
+# Munish
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and give to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Baltimore, in the state of Maryland, in United States of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favourite books are:
 
-Here is 'some code' in the middle of a sentence.
+- *Mindstorms* by Seymour Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
 
-'''
-This is
-a block
-of code
-'''
+### Food
 
-Here is how you make [a link](https://www.google.com).
+I love to eat in following three restaurants:
 
-![This is an image.](https://bbts1.azureedge.net/images/p/full/2017/02/2b1bd188-8c10-47b8-bb79-e642930c4703.jpg)
+1. Linger in Denver
+2. Azura in Jerusalem
+3. Gemma in New York City
 
-nano README.md
+### Contact
+
+You can reach me at my [email](https://www.gmail.com)
